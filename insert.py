@@ -1,3 +1,4 @@
+import psycopg2
 import sqlalchemy
 import data
 import user_config
