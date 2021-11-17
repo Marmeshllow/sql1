@@ -1,7 +1,7 @@
 genres = ['dance', 'Soundtrack', 'Hip-Hop/Rap', 'Anime', 'Alternative', 'Pop', 'Rock', 'J-Pop', 'Metal', 'Electronic']
 artists = ['Boys Town Gang', 'SEGA', 'Mori Calliope', 'Sliverk', 'Lollia', 'Megami33', 'CG5', 'CHiCO with HoneyWorks',
            'Sum 41', 'Azumi Waki', 'Naotaro Moriyama', 'Imagine Dragons']
-artists_genres = [(0, 0), (1, 1), (2, 2), (3, 3), (4, 4), (5, 4), (6, 5), (7, 3), (8, 6), (9, 3), (10, 7), (11, 4)]
+artists_genres = [(0, 0), (1, 1), (2, 2), (2, 3), (3, 3), (4, 4), (5, 4), (6, 5), (7, 3), (8, 6), (8, 4), (9, 3), (10, 7), (11, 4)]
 albums = [('Disc Charge', 2004, 'DESCRIPTION'), ('BAYONETTA Original Soundtrack Vol. 4', 2011, 'DESCRIPTION'),
           ('Your Mori. (Digital ver.) - EP', 2018, 'DESCRIPTION'), ('Mori Calliope Single', 2019, 'DESCRIPTION'),
           ('DEAD BEATS - EP', 2018, 'DESCRIPTION'), ('Does This Look Infected?', 2018, 'DESCRIPTION'),
